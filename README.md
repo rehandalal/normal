@@ -7,6 +7,7 @@ You've used LESS and STYLUS and SASS and you're sick of 'em...
 
 How to use
 ----------
+yay changes are here! yarr!
 
 Insert the following into the `<head>` section of your HTML.
 
